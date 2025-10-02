@@ -5,4 +5,4 @@
 系級：科技系2年級  
 課程筆記區、作業連結區、專題連結區  
 [HW1](https://github.com/41371113h-xian/114-1/blob/main/HW_1.ipynb)  
-[HW2](https://github.com/41371113h-xian/114-1/blob/main/HW_1.ipynb)  
+[HW2]()  
