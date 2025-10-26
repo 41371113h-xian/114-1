@@ -6,4 +6,4 @@
 課程筆記區、作業連結區、專題連結區  
 [HW1](https://github.com/41371113h-xian/114-1/blob/main/HW_1.ipynb)  
 [HW2](HW_2.ipynb)  
-[HW3](HW_2.ipynb)  
+[HW3](https://github.com/41371113h-xian/114-1/blob/main/hw_3.ipynb)  
